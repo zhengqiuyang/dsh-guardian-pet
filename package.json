@@ -1,6 +1,6 @@
 {
   "name": "dsh-guardian-pet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A guardian pet for your DeepSeek Harness agent: it sleeps while all is clear, bristles when something is caught, and writes you a weekly battle report from the trust family's nine channels. Zero LLM calls",
   "type": "module",
   "license": "MIT",
